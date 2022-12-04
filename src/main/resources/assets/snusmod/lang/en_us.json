@@ -7,5 +7,10 @@
   "item.snusmod.snus_fish":"Fish Snus",
   "item.snusmod.snus_jungle":"Snus \"Tropican\"",
   "item.snusmod.snus_nether_wart":"Hell Snus",
-  "item.snusmod.snus_red_rose":"Snus of the Red Rose"
+  "item.snusmod.snus_red_rose":"Snus of the Red Rose",
+  "item.snusmod.snus_chorus":"Chorus Snus",
+  "item.snusmod.snus_dreams":"Dream Snus",
+  "item.snusmod.snus_ender":"Ender Snus",
+  "advancements.vkid.title": "Vkinylsa i otkinylsa",
+  "advancements.vkid.descr": "To taste snus for the first time"
 }

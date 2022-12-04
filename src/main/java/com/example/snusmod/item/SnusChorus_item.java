@@ -28,9 +28,9 @@ public class SnusChorus_item extends Snus{
             double d2 = p_40714_.getZ();
 
             for(int i = 0; i < 16; ++i) {
-                double d3 = p_40714_.getX() + (p_40714_.getRandom().nextDouble() - 0.5D) * 512.0D;
+                double d3 = p_40714_.getX() + (p_40714_.getRandom().nextDouble() - 0.5D) * 1024.0D;
                 double d4 = Mth.clamp(p_40714_.getY() + (double)(p_40714_.getRandom().nextInt(64) - 32), (double)p_40713_.getMinBuildHeight(), (double)(p_40713_.getMinBuildHeight() + ((ServerLevel)p_40713_).getLogicalHeight() - 1));
-                double d5 = p_40714_.getZ() + (p_40714_.getRandom().nextDouble() - 0.5D) * 512.0D;
+                double d5 = p_40714_.getZ() + (p_40714_.getRandom().nextDouble() - 0.5D) * 1024.0D;
                 if (p_40714_.isPassenger()) {
                     p_40714_.stopRiding();
                 }

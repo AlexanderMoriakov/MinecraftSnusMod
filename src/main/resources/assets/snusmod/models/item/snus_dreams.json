@@ -1,6 +1,6 @@
 {
   "parent": "item/generated",
   "textures": {
-    "layer0": "snusmod:item/snus_ender"
+    "layer0": "snusmod:item/snus_dreams"
   }
 }

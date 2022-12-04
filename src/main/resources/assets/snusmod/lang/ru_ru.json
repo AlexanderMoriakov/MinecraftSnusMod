@@ -7,6 +7,11 @@
   "item.snusmod.snus_fish":"Рыбный Снюс",
   "item.snusmod.snus_jungle":"Снюс \"Тропикан\"",
   "item.snusmod.snus_nether_wart":"Адский Снюс",
-  "item.snusmod.snus_red_rose":"Снюс Красной Розы"
+  "item.snusmod.snus_red_rose":"Снюс Красной Розы",
+  "item.snusmod.snus_chorus":"Хорус-Снюс",
+  "item.snusmod.snus_dreams":"Снюс Сна",
+  "item.snusmod.snus_ender":"Эндер Снюс",
+  "advancements.vkid.title": "Вкинулся и откинулся",
+  "advancements.vkid.descr": "Попробовать снюс впервые"
 
 }
