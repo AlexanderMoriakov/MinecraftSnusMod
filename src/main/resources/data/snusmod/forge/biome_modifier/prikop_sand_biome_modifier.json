@@ -1,0 +1,10 @@
+{
+  "type": "forge:add_features",
+  "biomes":
+  [
+    "desert",
+    "beach"
+  ],
+  "features": "snusmod:prikop_sand",
+  "step": "surface_structures"
+}

@@ -1,0 +1,21 @@
+{
+  "type": "forge:add_features",
+  "biomes":
+  [
+    "plains",
+    "forest",
+    "old_growth_birch_forest",
+    "old_growth_pine_taiga",
+    "old_growth_spruce_taiga",
+    "taiga",
+    "birch_forest",
+    "dark_forest",
+    "jungle",
+    "sparse_jungle",
+    "bamboo_jungle",
+    "wooded_badlands",
+    "savanna"
+  ],
+  "features": "snusmod:prikop_dirt",
+  "step": "surface_structures"
+}

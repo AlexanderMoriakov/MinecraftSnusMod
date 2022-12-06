@@ -1,5 +1,6 @@
 package com.example.snusmod;
 
+import com.example.snusmod.init.SnusmodModFeatures;
 import com.example.snusmod.init.SnusmodModItems;
 import com.example.snusmod.init.SnusmodModMenus;
 import net.minecraftforge.common.MinecraftForge;
@@ -20,8 +21,8 @@ public class SnusMod {
         IEventBus bus = FMLJavaModLoadingContext.get().getModEventBus();
 
         SnusmodModItems.REGISTRY.register(bus);
-
         SnusmodModMenus.REGISTRY.register(bus);
+        SnusmodModFeatures.REGISTRY.register(bus);
 
     }
 }
